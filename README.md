@@ -15,7 +15,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 {% endcomment %}
 -->
-
 # Elyra Component Library - The Component Library for AI, Machine Learning, ETL, and Data Science
 
 **TL;DR**
@@ -79,7 +78,6 @@ To learn more on how this library works in practice, please have a look at the f
 [covidata] Joseph Paul Cohen et al. *COVID-19 Image Data Collection: Prospective Predictions Are the Future*, arXiv:2006.11988, 2020
 
 ## Getting Help
-
 We welcome your questions, ideas, and feedback. Please create an [issue](https://github.com/IBM/claimed/issues) or a [discussion thread](https://github.com/IBM/claimed/discussions).
 
 ## Contributing to CLAIMED
